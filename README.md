@@ -1,1 +1,3 @@
 # sql-eda-project
+
+O projektu...
